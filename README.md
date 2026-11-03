@@ -11,17 +11,14 @@ I'm a Playable Game Developer and Technical Artist with 8+ years in game develop
 
 <table>
   <tr>
-    <td align="center" width="25%">
+    <td align="center" width="33%">
       <a href="https://andersonigarashi.github.io/robot_rescue/"><img src="img/build-your-ai.webp" width="220" alt="Build Your AI playable" /></a>
     </td>
-    <td align="center" width="25%">
+    <td align="center" width="33%">
       <a href="https://andersonigarashi.github.io/help_the_character/"><img src="img/mine-rescue.webp" width="220" alt="Mine Rescue playable" /></a>
     </td>
-    <td align="center" width="25%">
+    <td align="center" width="33%">
       <a href="https://andersonigarashi.github.io/HouseCleanerPlayable/"><img src="img/dream-house.webp" width="220" alt="Build Your Dream House playable" /></a>
-    </td>
-    <td align="center" width="25%">
-      <a href="https://andersonigarashi.github.io/coloring_using_number/"><img src="img/pixel-splash.webp" width="220" alt="Pixel Splash playable" /></a>
     </td>
   </tr>
   <tr>
@@ -42,6 +39,22 @@ I'm a Playable Game Developer and Technical Artist with 8+ years in game develop
       Sweep a wrecked yard, watch the house rebuild, then paint it. Every model was built in Blender through an AI-driven pipeline.<br />
       <sub>three.js · pixi.js · Blender MCP</sub><br />
       <a href="https://andersonigarashi.github.io/HouseCleanerPlayable/">Play</a> · <a href="https://github.com/AndersonIgarashi/HouseCleanerPlayable">Code</a> · <a href="https://github.com/AndersonIgarashi/HouseCleanerPlayable#how-it-was-built-ai-workflow">How it was built</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://andersonigarashi.github.io/twistMonsters/"><img src="img/twist-monsters.webp" width="220" alt="Twist Monsters playable" /></a>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://andersonigarashi.github.io/coloring_using_number/"><img src="img/pixel-splash.webp" width="220" alt="Pixel Splash playable" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <b>Twist Monsters</b><br />
+      My 2019 Unity arrow game, ported to a 20-second playable: shoot a spinning shadow monster without hitting your own arrows, survive its laser, spend its souls. The sprites, sounds and timings come straight from the Unity scene.<br />
+      <sub>TypeScript · Three.js · Unity port</sub><br />
+      <a href="https://andersonigarashi.github.io/twistMonsters/">Play</a> · <a href="https://github.com/AndersonIgarashi/twistMonsters">Code</a> · <a href="https://github.com/AndersonIgarashi/twistMonsters#how-it-was-built-ai-workflow">How it was built</a>
     </td>
     <td valign="top">
       <b>Pixel Splash</b><br />
